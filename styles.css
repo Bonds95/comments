@@ -197,14 +197,14 @@ body {
     font-size: 16px;
   }
   .comment-name {
-    font-size: 20px;
+    font-size: 22px;
   }
   .comment,
   .add-form {
-    width: 350px;
+    width: 400px;
   }
   .add-form-name {
-    width: 250px;
+    width: 350px;
     padding: 11px 22px;
   }
 }/*# sourceMappingURL=styles.css.map */
