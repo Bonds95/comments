@@ -64,7 +64,7 @@ function postApiFunction() {
                 alert('Сервер временно недоступен, попробуйте позже')
             }
             else {
-                alert('Отсутствует подключение к интернету')
+                console.log('какая-то ошибка')
             }
         })
 
@@ -167,7 +167,6 @@ const renderApp = () => {
   ${commentsHtml}
   </ul>
   <div class="add-form">
-  <input type="text" id="add-form-name" class="add-form-name" placeholder="Введите ваше имя" />
   <textarea type="textarea" id="add-form-text" class="add-form-text" placeholder="Введите ваш коментарий"
     rows="4"></textarea>
   <div class="add-form-row">
