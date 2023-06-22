@@ -190,21 +190,4 @@ body {
   border-radius: 18px;
   cursor: pointer;
   text-decoration: underline;
-}
-
-@media (max-width: 767px) {
-  .comment-text {
-    font-size: 16px;
-  }
-  .comment-name {
-    font-size: 22px;
-  }
-  .comment,
-  .add-form {
-    width: 400px;
-  }
-  .add-form-name {
-    width: 350px;
-    padding: 11px 22px;
-  }
 }/*# sourceMappingURL=styles.css.map */
